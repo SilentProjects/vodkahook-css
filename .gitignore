@@ -1,0 +1,13 @@
+
+*.db
+*.ipch
+*.opendb
+*.ini
+*.dll
+*.ilk
+.vs/vodkahook-css/v16/.suo
+*.obj
+*.idb
+*.log
+*.tlog
+*.pdb
